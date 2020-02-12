@@ -8,3 +8,6 @@ console.log(foo+bar);
 console.log(foo*bar);
 console.log(foo/bar);
 console.log(foo % 2);
+
+var strNum = "444";
+console.log(strNum);
